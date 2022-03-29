@@ -1,4 +1,6 @@
 # Memory Game
+This is a memory game in which the player remembers random patterns of blue squares, as they level up the time they are given to memorize the content gets smaller.
+
 Use the following link to play my game: https://replit.com/@GabrielCastill5/ComSciMemoryGame
 
 !IMPORTANT!: To play this game on replit you MUST ZOOM OUT until at least 33% (in chrome). 
